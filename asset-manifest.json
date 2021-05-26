@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VitorSanders/react-basics-monsters-rolodex/static/css/main.8845f3f1.chunk.css",
+    "main.js": "/VitorSanders/react-basics-monsters-rolodex/static/js/main.2ab9ae45.chunk.js",
+    "main.js.map": "/VitorSanders/react-basics-monsters-rolodex/static/js/main.2ab9ae45.chunk.js.map",
+    "runtime-main.js": "/VitorSanders/react-basics-monsters-rolodex/static/js/runtime-main.2dfbff67.js",
+    "runtime-main.js.map": "/VitorSanders/react-basics-monsters-rolodex/static/js/runtime-main.2dfbff67.js.map",
+    "static/js/2.053fb966.chunk.js": "/VitorSanders/react-basics-monsters-rolodex/static/js/2.053fb966.chunk.js",
+    "static/js/2.053fb966.chunk.js.map": "/VitorSanders/react-basics-monsters-rolodex/static/js/2.053fb966.chunk.js.map",
+    "static/js/3.a612b9b8.chunk.js": "/VitorSanders/react-basics-monsters-rolodex/static/js/3.a612b9b8.chunk.js",
+    "static/js/3.a612b9b8.chunk.js.map": "/VitorSanders/react-basics-monsters-rolodex/static/js/3.a612b9b8.chunk.js.map",
+    "index.html": "/VitorSanders/react-basics-monsters-rolodex/index.html",
+    "static/css/main.8845f3f1.chunk.css.map": "/VitorSanders/react-basics-monsters-rolodex/static/css/main.8845f3f1.chunk.css.map",
+    "static/js/2.053fb966.chunk.js.LICENSE.txt": "/VitorSanders/react-basics-monsters-rolodex/static/js/2.053fb966.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dfbff67.js",
+    "static/js/2.053fb966.chunk.js",
+    "static/css/main.8845f3f1.chunk.css",
+    "static/js/main.2ab9ae45.chunk.js"
+  ]
+}
